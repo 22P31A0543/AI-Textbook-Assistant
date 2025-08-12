@@ -1,0 +1,6 @@
+streamlit==1.26.0
+transformers==4.30.0
+sentence-transformers==2.2.2
+tqdm==4.65.0
+PyMuPDF==1.22.5
+torch==2.0.1
